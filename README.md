@@ -11,9 +11,13 @@ evaluate new categories based on learned feature mappings for
 verification.
 
 #### Filters and Activations
+---
 - filters of varying
 size and a fixed stride of 1
 - ReLU activation function
 to the output feature maps
 -  followed by maxpooling
 with a filter size and stride of 2.
+
+#### Loss function
+![Loss Function](/data/loss.png)
