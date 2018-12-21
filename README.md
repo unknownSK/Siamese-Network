@@ -20,4 +20,4 @@ to the output feature maps
 with a filter size and stride of 2.
 
 #### Loss function
-![Loss](/Data/loss.png)
+![Loss](/Data/loss.jpeg)
