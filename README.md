@@ -20,4 +20,9 @@ to the output feature maps
 with a filter size and stride of 2.
 
 #### Loss function
+---
 ![Loss](/Data/loss.jpeg)
+
+#### Overall Model was as Follow
+---
+![Model](/Data/Screenshot from 2018-12-21 15-01-05.png)
