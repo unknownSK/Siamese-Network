@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 21 13:44:44 2018
-
-@author: rinkeshjadav
-"""
-
 from __future__ import absolute_import
 from __future__ import print_function
 
