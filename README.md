@@ -25,4 +25,4 @@ with a filter size and stride of 2.
 
 #### Overall Model was as Follow
 ---
-![Model](/Data/Screenshot from 2018-12-21 15-01-05.png)
+![Model](/Data/Screenshot-from-2018-12-21-15-01-05.png)
